@@ -1,2 +1,5 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
+^\.Rproj\manual.pdf$
+^\.Rproj\LICENSE$
+^\.Rproj\DESCRIPTION$
